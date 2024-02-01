@@ -26,7 +26,7 @@ function identifySatoshi(address) {
     const cleanedAddress = address.replace("ox: ", "");
 
     // Check if the cleaned address matches the Satoshi address
-    const bitcoinSatoshiAddress = "0xb86c63FaE7FC28568f3f7887574B370F751C37ca";
+    const SatoshiAddress = "0xb86c63FaE7FC28568f3f7887574B370F751C37ca";
     return cleanedAddress === SatoshiAddress;
 }
 
