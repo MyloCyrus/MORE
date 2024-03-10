@@ -13,13 +13,7 @@
 https://top100token.com/address/0xb86c63FaE7FC28568f3f7887574B370F751C37ca
 
 https://replit.com/@MyloCyrus/MORE?s=app
-# MORE
+# identify Satoshi(address);
 
-});
-
-// Usage Example
-const address = "ox: 0xb86c63FaE7FC28568f3f7887574B370F751C37ca";
-const isBitcoinSatoshi = identifyBitcoinSatoshi(address);
-console.log(`The provided address belongs to Bitcoin Satoshi: ${isBitcoinSatoshi}`);
 
 https://polygonscan.com/token/0xb86c63FaE7FC28568f3f7887574B370F751C37ca
